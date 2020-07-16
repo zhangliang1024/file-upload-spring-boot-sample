@@ -1,0 +1,7 @@
+
+
+spring:
+  cloud:
+    store:
+      type: LOCAL
+      local-prefix: D:/Learn
